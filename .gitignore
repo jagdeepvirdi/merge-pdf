@@ -3,3 +3,6 @@ sessions/
 .code-review-graph/
 TASKS.md
 .vercel/
+
+.vercel
+.env*
