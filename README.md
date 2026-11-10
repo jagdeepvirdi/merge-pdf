@@ -23,6 +23,10 @@ The page count shown under "Output will contain N pages..." updates live as you 
 - Corrupt or non-PDF files are flagged in the file list instead of being silently skipped.
 - Everything happens client-side using [pdf-lib](https://pdf-lib.js.org/), vendored locally in `vendor/pdf-lib.min.js`, so the app works fully offline with no internet connection required.
 
+## Privacy
+
+Your PDFs are never uploaded, copied or stored. The app makes no network requests, has no backend, and keeps nothing in browser storage. Merging happens in your browser's memory and the result goes straight to your downloads folder.
+
 ## Files
 
 ```
