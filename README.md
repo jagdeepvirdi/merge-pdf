@@ -1,5 +1,7 @@
 # PDF Merge
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 A standalone, offline-capable web app for merging PDF files. Runs entirely in your browser — no server, no install, no upload. Your files never leave your device.
 
 ## Usage
